@@ -15,7 +15,7 @@ widgetDescription = "Jag är ganska smart, men behöver ett par sekunder för at
 inputPlaceholder = "Skriv meddelande...";
 widgetStylesheet = "https://kristoman-rikardo.github.io/buttonlabels/se.css";
 } else {
-widgetDescription = "Jag är ganska smart, men behöver ett par sekunder för att tänka efter🏃 Jag är fortfarande under utbildning och kan därför göra små misstag.";
+widgetDescription = "Jag är en smart löpare🏃 Men jag är fortfarande under utbildning och kan därför göra små misstag.";
 inputPlaceholder = "Skriv meddelande...";
 widgetStylesheet = "https://kristoman-rikardo.github.io/buttonlabels/se.css";
 }
