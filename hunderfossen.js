@@ -8,7 +8,7 @@ let browser_url = window.location.href;
 widgetDescription = "I'm a clever and harmless troll, but I'm still in training and might make small mistakes🧌";
 inputPlaceholder = "Message...";
 widgetStyleSheet = "https://kristoman-rikardo.github.io/buttonlabels/en.css";
-} else if (browser_url.includes('/de')) {
+} else if (browser_url.includes('/de/')) {
 widgetDescription = "Ich bin ein schlaues und harmloses Troll, aber ich bin noch in der Ausbildung und kann deshalb kleine Fehler machen🧌";
 inputPlaceholder = "Nachricht schreiben...";
 widgetStyleSheet = "https://kristoman-rikardo.github.io/buttonlabels/de.css";
